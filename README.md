@@ -71,4 +71,20 @@ A análise permite identificar fatores como:
 - Frequência de uso do serviço
 - Perfil dos clientes que mais cancelam
 
-Essas informações ajudam a empresa a **desenvolver estratégias para retenção de clientes**.
+Essas informações ajudam a empresa a **desenvolver estratégias para retenção de clientes**.                                                                                                                           ---
+
+# 🚀 Resultados Esperados
+
+Com essa análise, a empresa poderá:
+
+- Reduzir a taxa de cancelamento
+- Melhorar a retenção de clientes
+- Aumentar a receita
+- Tomar decisões baseadas em dados
+
+---
+
+# 📚 Fonte dos Dados
+
+Dataset obtido na plataforma **Kaggle** para fins educacionais e de análise de dados.
+
